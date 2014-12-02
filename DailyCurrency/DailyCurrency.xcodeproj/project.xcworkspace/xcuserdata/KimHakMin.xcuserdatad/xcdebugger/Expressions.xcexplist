@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__35-[CommManager getDailyCurrencyData]_block_invoke42:CommManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
